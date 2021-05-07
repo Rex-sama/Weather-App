@@ -1,0 +1,47 @@
+.Haze{
+    background-image: url('../img/haze.png');
+    background-size: cover;
+    width: 118px;
+    height: 77px;margin-left: 130px;
+    margin-bottom: 15px;
+}
+.Clouds{
+    background-image: url('../img/cloud2.png');
+    background-size: cover;
+    width: 130px;
+    height: 90px;margin-left: 130px;
+}
+.Smoke{
+    background-image: url('../img/smoke.png');
+    background-size: cover;
+    width: 130px;
+    height: 90px;margin-left: 120px;
+}
+.Rain{
+    background-image: url('../img/rain.png');
+    background-size: cover;
+    width: 100px;
+    height: 83px;margin-left: 145px;
+    margin-bottom: 9px;
+}
+.Clear{
+    background-image: url('../img/clear.png');
+    background-size: cover;
+    width: 100px;
+    height: 80px;margin-left: 140px;
+    margin-bottom: 10px;
+}
+.Snow{
+    background-image: url('../img/snow.png');
+    background-size: cover;
+    width: 100px;
+    height: 90px;margin-left: 145px;
+    margin-bottom: 5px;
+}
+.Drizzle{
+    background-image: url('../img/rain.png');
+    background-size: cover;
+    width: 100px;
+    height: 90px;margin-left: 140px;
+    margin-bottom: 5px;
+}
