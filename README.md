@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Prerequisites
 
-You need to create an API KEY in <a href-'https://openweathermap.org/api'>OpenWeather</a> API also create an .env file on the root of the project and put your API key as shown below
+You need to create an API KEY in <a href="https://openweathermap.org/api">OpenWeather</a> API also create an .env file on the root of the project and put your API key as shown below
 
 ```console
 REACT_APP_API_KEY = yourapikey
