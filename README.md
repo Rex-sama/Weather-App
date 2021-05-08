@@ -1,9 +1,9 @@
 
 # Weather-App with ReactJs
 
-A simple weather app made with ReactJs using OpenWeather API
-
 Check it Live here : https://myweather-applcation.herokuapp.com/
+
+A simple weather app made with ReactJs using OpenWeather API
 
 <img src="https://user-images.githubusercontent.com/47276346/117313068-3068aa00-aea3-11eb-9121-535309013330.png" alt="image" width="700px">
 
