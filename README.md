@@ -53,7 +53,7 @@ npm run build
 
 ## Contributing
 
-Feel free to be contribute if you have any ideas 
+Feel free to contribute if you have any ideas 
 
 
 
